@@ -1,6 +1,6 @@
 <div>
-<img scr="https://github.com/YunsangJeong/ICT-/blob/master/KakaoTalk_20190531_133103974.jpg?raw=true">
-<img scr="https://github.com/YunsangJeong/ICT-/blob/master/KakaoTalk_20190531_132844675.jpg?raw=true">
+<img scr="https://user-images.githubusercontent.com/50007485/58687024-62ba2480-83bb-11e9-88af-11de1f136f3f.jpg">
+<img scr="https://user-images.githubusercontent.com/50007485/58687034-66e64200-83bb-11e9-8dec-df317d80b523.jpg">
 </div>
 
 
