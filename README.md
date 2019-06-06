@@ -2,7 +2,7 @@
 
 ![KakaoTalk20190606_232146808](https://user-images.githubusercontent.com/50007485/59041796-4b47d380-88b4-11e9-9013-8575df6bc3b7.jpg)
 
-#### Members
+## Members
 - 이동희, 정윤상, 정진호
 
 ### Purpose
@@ -14,12 +14,14 @@
 - tool-based prototype은 서버를 통해 각자의 미세먼지 정보를 공유할 수 있는 커뮤니티까지 제작할 계획이었으나 현재 wed-based 어플리케이션의 prototype은 스마트폰과 laspberry pi의 연동을 통해 모든 데이터를 처리하고 값을 받아오는 것까지만 구축해놓은 상황이다.
 
 
-###Producing Process of our prototype
+### Producing Process of our prototype
+#### Tool based
 - laser cutting을 통해 케이스의 도면을 만들어 조립했다. 조립 과정에서 연결 단자의 호환성 문제를 해결하기 위해 순간접착제를사용했다.
 ![KakaoTalk_20190531_134021456](https://user-images.githubusercontent.com/50007485/59041781-46831f80-88b4-11e9-8d56-74d993d390fd.jpg)
 - 케이스에는 laspberry pi와 미세먼지 측정기를 수납할 수 있다.
 ![KakaoTalk_20190606_234857257_02](https://user-images.githubusercontent.com/50007485/59042734-f442fe00-88b5-11e9-908c-be23ca4a2fae.jpg)
 ![KakaoTalk_20190606_234857257_04](https://user-images.githubusercontent.com/50007485/59042739-f73dee80-88b5-11e9-97a0-8addfc94447d.jpg)
+#### Web based
 - Laspberry pi는 미세먼지측정기에서 측정한 결과를 어플리케이션으로 전송하도록 프로그래밍했다.
 <img width="224" alt="KakaoTalk_20190606_230719784" src="https://user-images.githubusercontent.com/50007485/59042594-b1812600-88b5-11e9-9342-12aa98d982ba.png">
 - 서버에 접속하여 사용자들끼리 정보를 공유할 수 있다.
