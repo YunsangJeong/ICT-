@@ -15,18 +15,21 @@
 
 
 ### Producing Process of our prototype
-#### Tool based
+#### Hard ware
 - laser cutting을 통해 케이스의 도면을 만들어 조립했다. 조립 과정에서 연결 단자의 호환성 문제를 해결하기 위해 순간접착제를사용했다.
 ![KakaoTalk_20190531_134021456](https://user-images.githubusercontent.com/50007485/59041781-46831f80-88b4-11e9-8d56-74d993d390fd.jpg)
 - 케이스에는 laspberry pi와 미세먼지 측정기를 수납할 수 있다.
 ![KakaoTalk_20190606_234857257_02](https://user-images.githubusercontent.com/50007485/59042734-f442fe00-88b5-11e9-908c-be23ca4a2fae.jpg)
 ![KakaoTalk_20190606_234857257_04](https://user-images.githubusercontent.com/50007485/59042739-f73dee80-88b5-11e9-97a0-8addfc94447d.jpg)
-#### Web based
+#### Tool based application
 - Laspberry pi는 미세먼지측정기에서 측정한 결과를 어플리케이션으로 전송하도록 프로그래밍했다.
 <img width="224" alt="KakaoTalk_20190606_230719784" src="https://user-images.githubusercontent.com/50007485/59042594-b1812600-88b5-11e9-9342-12aa98d982ba.png">
 - 서버에 접속하여 사용자들끼리 정보를 공유할 수 있다.
 <img width="227" alt="KakaoTalk_20190606_230735100" src="https://user-images.githubusercontent.com/50007485/59043768-d4acd500-88b7-11e9-831f-34b874d7311c.png">
 <img width="224" alt="KakaoTalk_20190606_230810878" src="https://user-images.githubusercontent.com/50007485/59043769-d70f2f00-88b7-11e9-94b9-c3405fb90beb.png">
+#### Web based application
+![KakaoTalk_20190607_001441312](https://user-images.githubusercontent.com/50007485/59044661-813b8680-88b9-11e9-91d9-7d229019c490.png)
+![KakaoTalk_20190607_001522329](https://user-images.githubusercontent.com/50007485/59044667-839de080-88b9-11e9-82c5-727bddda197d.png)
 
 ### Future plan
 - 현재 서버단위가 아닌 개인 기기단위의 어플리케이션을 개발하는 데 성공했다. 추후에 이를 서버단위로 확장하여 정보공유를 가능하게 만들 계획이다.
