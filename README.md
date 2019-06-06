@@ -19,7 +19,6 @@
 ![KakaoTalk_20190531_134021456](https://user-images.githubusercontent.com/50007485/59041781-46831f80-88b4-11e9-8d56-74d993d390fd.jpg)
 ![overall shape](https://user-images.githubusercontent.com/50007485/58702408-b428da80-83e0-11e9-882e-42c0e5c24eb1.jpg)
 ![KakaoTalk_20190531_134220206](https://user-images.githubusercontent.com/50007485/59042289-2738c200-88b5-11e9-930c-3abfd889d45d.jpg)
-![KakaoTalk_20190531_132844675](https://user-images.githubusercontent.com/50007485/59042186-f193d900-88b4-11e9-84de-976d190e398c.jpg)
 - Laspberry pi는 미세먼지측정기에서 측정한 결과를 어플리케이션으로 전송하도록 프로그래밍했다.
 
 ### 한계
