@@ -28,8 +28,7 @@
 <img width="227" alt="KakaoTalk_20190606_230735100" src="https://user-images.githubusercontent.com/50007485/59043768-d4acd500-88b7-11e9-831f-34b874d7311c.png">
 <img width="224" alt="KakaoTalk_20190606_230810878" src="https://user-images.githubusercontent.com/50007485/59043769-d70f2f00-88b7-11e9-94b9-c3405fb90beb.png">
 #### Web based application
-![KakaoTalk_20190607_001441312](https://user-images.githubusercontent.com/50007485/59044661-813b8680-88b9-11e9-91d9-7d229019c490.png)
-![KakaoTalk_20190607_001522329](https://user-images.githubusercontent.com/50007485/59044667-839de080-88b9-11e9-82c5-727bddda197d.png)
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/jinojung/ICT_Webapp/master/index.html
 
 ### Future plan
 - 현재 서버단위가 아닌 개인 기기단위의 어플리케이션을 개발하는 데 성공했다. 추후에 이를 서버단위로 확장하여 정보공유를 가능하게 만들 계획이다.
