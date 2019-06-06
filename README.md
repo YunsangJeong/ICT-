@@ -15,11 +15,13 @@
 - 어플리케이션의 prototype은 특별한 서버를 가지지 않으며 스마트폰과 laspberry pi의 연동을 통해 모든 데이터를 처리한다. 하지만 완성된 어플리케이션은 서버를 통해 각 위치의 미ㅔ먼지 정보를 소비자끼리 공유할 수 있도록 제작할 계획이다.
 
 ###Producing Process(prototype)
-- laser cutting을 통해 case의 도면을 만들어 조립했다. 조립 과정에서 연결 단자의 호환성 문제를 해결하기 위해 순간접착제를사용했다. Case에는 laspberry pi와 미세먼지 측정기를 장착할 수 있는 공간을 마련했다.
+- laser cutting을 통해 case의 도면을 만들어 조립했다. 조립 과정에서 연결 단자의 호환성 문제를 해결하기 위해 순간접착제를사용했다.
 ![KakaoTalk_20190531_134021456](https://user-images.githubusercontent.com/50007485/59041781-46831f80-88b4-11e9-8d56-74d993d390fd.jpg)
-![overall shape](https://user-images.githubusercontent.com/50007485/58702408-b428da80-83e0-11e9-882e-42c0e5c24eb1.jpg)
-![KakaoTalk_20190531_134220206](https://user-images.githubusercontent.com/50007485/59042289-2738c200-88b5-11e9-930c-3abfd889d45d.jpg)
+- Case에는 laspberry pi와 미세먼지 측정기를 수납할 수 있다.
+![KakaoTalk_20190606_234857257_02](https://user-images.githubusercontent.com/50007485/59042734-f442fe00-88b5-11e9-908c-be23ca4a2fae.jpg)
+![KakaoTalk_20190606_234857257_04](https://user-images.githubusercontent.com/50007485/59042739-f73dee80-88b5-11e9-97a0-8addfc94447d.jpg)
 - Laspberry pi는 미세먼지측정기에서 측정한 결과를 어플리케이션으로 전송하도록 프로그래밍했다.
+<img width="224" alt="KakaoTalk_20190606_230719784" src="https://user-images.githubusercontent.com/50007485/59042594-b1812600-88b5-11e9-9342-12aa98d982ba.png">
 
 ### 한계
 - 시간 및 기술상의 문제로 아직 web based prototype을 구현하지 못했다.
