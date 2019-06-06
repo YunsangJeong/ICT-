@@ -1,7 +1,3 @@
-![overall shape](https://user-images.githubusercontent.com/50007485/58702408-b428da80-83e0-11e9-882e-42c0e5c24eb1.jpg)
-![inner side](https://user-images.githubusercontent.com/50007485/58702131-e423ae00-83df-11e9-8a38-3b990de4229e.jpg)
-------------------------------------------
-
 
 # Fine case
 
@@ -19,6 +15,7 @@
 ###Producing Process(prototype)
 - laser cutting을 통해 case의 도면을 만들어 조립했다. 조립 과정에서 연결 단자의 호환성 문제를 해결하기 위해 순간접착제를사용했다. Case에는 laspberry pi와 미세먼지 측정기를 장착할 수 있는 공간을 마련했다.
 - Case를 열고 닫아 laspberry pi와 미세먼지 측정기를 꺼내거나 넣을 수 있도록 도면을 설계했다.
+![overall shape](https://user-images.githubusercontent.com/50007485/58702408-b428da80-83e0-11e9-882e-42c0e5c24eb1.jpg)
 - Laspberry pi는 미세먼지측정기에서 측정한 결과를 어플리케이션으로 전송하도록 프로그래밍했다.
 
 ### 한계
